@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvegh" alt="rvegh" /></a> </p>
 
-- 🔭 I’m currently working on [data-pipeline-gcp](https://github.com/RVegh/data-pipeline-gcp)
+- 🔭 I’m currently working on [DLaaS](https://github.com/aureliowozhiak/DLaaS)
 
-- 🌱 I’m currently learning **Spark,GCP,Airflow and DataViz**
+- 🌱 I’m currently learning **Spark, Cloud, Airflow and Databricks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RVegh](https://github.com/RVegh)
 
